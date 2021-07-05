@@ -1,5 +1,6 @@
 """
 -프로그래머스 코딩테스트 문제: "모의고사"
+-완전탐색
 """
 def solution(answers):
     answer = []
